@@ -1,5 +1,7 @@
 {
     "name": "afsharmn/hyperui-laravel",
+    "type": "library",
+    "version": "0.0.0",
     "autoload": {
         "psr-4": {
             "Afsharmn\\HyperuiLaravel\\": "src/"

@@ -1,0 +1,24 @@
+{
+    "name": "afsharmn/hyperui-laravel",
+    "autoload": {
+        "psr-4": {
+            "Afsharmn\\HyperuiLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Afshar",
+            "email": "afshar.mahmoodian@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^11.36"
+    },
+    "extra" : {
+        "laravel" : {
+            "providers" : [
+                "afsharmn\\HyperuiLaravel\\Providers\\HyperUIComponentsProvider"
+            ]
+        }
+    }
+}

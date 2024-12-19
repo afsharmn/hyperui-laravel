@@ -16,12 +16,13 @@
     "require": {
         "illuminate/support": "^11.36"
     },
-    "extra" : {
-        "laravel" : {
-            "providers" : [
+    "extra": {
+        "laravel": {
+            "providers": [
                 "afsharmn\\HyperuiLaravel\\Providers\\HyperUIComponentsProvider"
             ]
-        }
+        },
+        "license": "MIT"
     },
     "minimum-stability": "stable",
     "prefer-stable": true

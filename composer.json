@@ -20,5 +20,7 @@
                 "afsharmn\\HyperuiLaravel\\Providers\\HyperUIComponentsProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }

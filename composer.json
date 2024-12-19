@@ -21,9 +21,9 @@
             "providers": [
                 "afsharmn\\HyperuiLaravel\\Providers\\HyperUIComponentsProvider"
             ]
-        },
-        "license": "MIT"
+        }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "license": "MIT"
 }
